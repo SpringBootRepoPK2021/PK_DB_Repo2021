@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="me.dbtest.project.model.Orders"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.web.multipart.MultipartFile"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="com.dbtest.trademodule.repository.OrdersRepo"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="me.elmaalem.project.model.Orders"/>
+    <fullyQualifiedTypeName name="com.dbtest.trademodule.service.CSVService"/>
+    <fullyQualifiedTypeName name="com.dbtest.trademodule.helper.CSVHelper"/>
+    <fullyQualifiedTypeName name="com.dbtest.trademodule.model.Orders"/>
+</qualifiedTypeNameHistroy>

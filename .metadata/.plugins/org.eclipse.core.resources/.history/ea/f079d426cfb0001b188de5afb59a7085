@@ -1,0 +1,6 @@
+package snippet;
+
+public class Snippet {
+	Caused by: java.lang.ClassNotFoundException
+}
+

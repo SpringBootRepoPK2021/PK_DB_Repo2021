@@ -1,0 +1,5 @@
+package com.dbtest.trademodule.model;
+
+public class Orders {
+
+}

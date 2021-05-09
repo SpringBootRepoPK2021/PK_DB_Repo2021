@@ -1,0 +1,5 @@
+package com.dbtest.trademodule.repository;
+
+@Repository
+public interface OrdersRepo extends JpaRepository<Orders,Long> {
+}

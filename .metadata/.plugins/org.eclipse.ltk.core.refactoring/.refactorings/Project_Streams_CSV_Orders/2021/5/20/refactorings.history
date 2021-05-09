@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;me.elmaalem.project&apos; to &apos;DBTestProject/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;Project_Streams_CSV_Orders&apos;&#x0D;&#x0A;- Destination element: &apos;DBTestProject/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;Project_Streams_CSV_Orders/src/main/java/me.elmaalem.project&apos;" description="Copy package" destination="=DBTestProject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;me.elmaalem.project" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1620568954183" version="1.0"/>
+</session>

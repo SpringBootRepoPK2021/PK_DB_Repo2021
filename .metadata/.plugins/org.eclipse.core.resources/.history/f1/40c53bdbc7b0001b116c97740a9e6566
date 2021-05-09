@@ -1,0 +1,30 @@
+package com.dbtest.trademodule.model;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Entity
+public class Orders {
+    
+    private int version;
+    private String tradeId;
+    private String mDate;
+    private String cpId;
+    private String bId;
+    private String createdOn;
+    private String expiredFlag;
+	public Orders(int version, String tradeId, String mDate, String cpId, String bId, String createdOn,
+			String expiredFlag) {
+		super();
+		this.version = version;
+		this.tradeId = tradeId;
+		this.mDate = mDate;
+		this.cpId = cpId;
+		this.bId = bId;
+		this.createdOn = createdOn;
+		this.expiredFlag = expiredFlag;
+	}
+    
+    
+ 
+}

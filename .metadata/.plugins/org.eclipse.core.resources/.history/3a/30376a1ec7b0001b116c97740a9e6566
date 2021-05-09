@@ -1,0 +1,18 @@
+package com.dbtest.trademodule.model;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Entity
+public class Orders {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int version;
+    private String tradeId;
+    private String mDate;
+    private String cpId;
+    private String bId;
+    private String createdOn;
+    private String expiredFlag;
+ 
+}

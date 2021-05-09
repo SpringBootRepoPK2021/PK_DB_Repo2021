@@ -1,0 +1,5 @@
+package com.dbtest.trademodule.repository;
+
+public class OrdersRepo {
+
+}

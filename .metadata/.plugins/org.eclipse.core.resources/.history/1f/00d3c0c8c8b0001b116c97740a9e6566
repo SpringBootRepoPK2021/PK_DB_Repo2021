@@ -1,0 +1,12 @@
+package com.dbtest.trademodule.repository;
+
+import org.springframework.batch.core.repository.JobRepository;
+import org.springframework.stereotype.Repository;
+
+import com.dbtest.trademodule.model.Orders;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface OrdersRepo extends JobRepository<Orders,Long> {
+}
